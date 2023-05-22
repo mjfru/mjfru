@@ -1,5 +1,11 @@
-### Hello there 👋
-I'm Matt (he/him), an up-and-coming developer from Pennsylvania.
+### Hello there, nice to meet you! 👋
+I'm Matt (he/him), an up-and-coming developer from Pennsylvania studying at Coding Dojo, a division of Colorado Technical University.
+I currently have experience in Web Development incdluding HTML, CSS, JavaScript, Bootstrap) and Python with experience using MySQL and Flask.
+In the coming months, I will add MERN and Java to my skillset and be eager to enter the tech field.
+I have a Master of Science degree in secondary education and a Bachelor of Arts degree in Japanese and am currently employed using skillsets.
+I am bilingual (English/Japanese) and can also speak Swedish at a conversational level.
+As a life-long learner, I'm eager to continue to learn within the tech field and am open to employment opportunities worldwide.
+Please feel free to contact me at mjfru201@gmail.com
 <!--
 **mjfru/mjfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
