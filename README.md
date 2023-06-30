@@ -1,5 +1,5 @@
 ### Hello there, nice to meet you! 👋
-- I'm Matt Frutchey(Fru-shay), an up-and-coming developer from Pennsylvania studying at Coding Dojo, a division of Colorado Technical University.
+- I'm Matt Frutchey (Fru-shay), an up-and-coming developer from Pennsylvania studying at Coding Dojo, a division of Colorado Technical University.
 - I currently have experience in Web Development including HTML, CSS, JavaScript, Bootstrap and Python with experience using MySQL and Flask.
 - By the end of 2023, I will add MERN and full-stack Java to my skillset and be eager to enter the tech field.
 - I have a Master of Science degree in secondary education and a Bachelor of Arts degree in Japanese and am currently employed using both skillsets.
