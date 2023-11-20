@@ -6,7 +6,7 @@
 - I have a Master of Science degree in secondary education and a Bachelor of Arts degree in Japanese and am currently employed using both skillsets.
 - I am bilingual (English/Japanese) and can also speak Swedish at a conversational level.
 - As a life-long learner, I'm eager to continue to learn within the tech field and am open to employment opportunities worldwide.
-- Please feel free to contact me on LinkedIn or send me an email at mjfru201@gmail.com
+- Please feel free to contact me on LinkedIn (link below my picture) or send me an email at mjfru201@gmail.com
 <!--
 **mjfru/mjfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
