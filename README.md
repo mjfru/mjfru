@@ -1,5 +1,5 @@
 ### Hello there, nice to meet you! 👋
-- I'm Matt Frutchey (Fru-shay), a recent bootcamp graduate from Pennsylvania. I studied three stacks (MERN, Java, Python) at Coding Dojo, a part of Colorado Technical University.
+- I'm Matt Frutchey (Fru-shay), a recent bootcamp graduate from Pennsylvania. I studied three full-stacks (MERN, Java, Python) at Coding Dojo, a part of Colorado Technical University.
 - I currently have experience in Web Development with HTML, CSS (including Bootstrap, MUI, and Tailwind), JavaScript, the MERN stack, Python with MySQL and Flask, and Java with Spring Boot.
 - At the moment, I'm polishing up some projects from my bootcamp experience, doing general algorithm practice, and continuing to review and dive deeper into frameworks and languages.
 - In my free time, I'm learning Ruby and actively working to deepen my knowledge in all things JavaScript.
