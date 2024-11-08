@@ -5,7 +5,7 @@
 - I am open to work and/or collaborate as a junior front-end or full-stack developer. I have the most experience working with React but would be eager to learn and refresh any other languages/skills.
 - As a life-long learner, I'm eager to continue to learn within the tech field and am open to employment opportunities worldwide.
 - I have a Master of Science degree in secondary education and a Bachelor of Arts degree in Japanese and am currently employed using both skillsets.
-- I am bilingual (English/Japanese) and can also speak Swedish at an intermediate level.
+- I am bilingual (English/Japanese) and have intermediate knowledge of Swedish and German.
 - Please feel free to contact me on LinkedIn (link below my picture) or send me an email at mjfru201@gmail.com
 <!--
 **mjfru/mjfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
