@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NwajZnaTRkYXFjdnFwbTBuOTRlMWQwZWZqcWxod29pbmdtYXI1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
 ### Hello there, nice to meet you! 👋
 - I'm Matt Frutchey (Fru-shay), a recent coding bootcamp graduate and front-end / full-stack web developer from Pennsylvania. I studied three full-stacks (MERN, Java, Python) at Coding Dojo, a part of Colorado Technical University.
 - I currently have experience in Web Development with HTML, CSS (including Bootstrap, MUI, Tailwind, Bulma, and Sass), JavaScript, the MERN stack, Python with MySQL and Flask, and Java with Spring Boot.
