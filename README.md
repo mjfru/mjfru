@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there, nice to meet you! 👋</h1>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NwajZnaTRkYXFjdnFwbTBuOTRlMWQwZWZqcWxod29pbmdtYXI1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFoMDh1ZnFhanFtdnY0MXJycnV2ajdnYmJ6YXc5c2tscTh5eDJtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je6eSg8ONhujzJC/giphy.gif" alt="simpsons internet" width="500" height="300"/>
   <div>
     <a href="https://www.linkedin.com/in/matthew-frutchey/" align="center">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,6 +9,7 @@
 </div>
 
 ---
+<h2 align="center">About Me:</h2>
 
 - 👀 I'm Matt Frutchey (Fru-shay), a recent coding bootcamp graduate, teacher, and front-end / full-stack web developer from Pennsylvania.
 - 🎓 I studied three full-stacks (MERN, Java, Python) at Coding Dojo (Colorado Technical University), have a Master of Science degree in secondary education, and a Bachelor of Arts degree in Japanese.
@@ -56,7 +57,27 @@
     
 - 👨‍🏫 As a life-long learner and teacher, I'm eager to continue to learn within the tech field, consistently practicing the fundamentals and enriching my knowledge with new languages and frameworks.
 - 🌏 I am a native English speaker with advanced Japanese ability and intermediate German & Swedish.
+- ⏲ When I'm not coding, I'm often convincing myself it's enjoyable to be stressed about sports (mainly soccer/football), traveling, and catching up on an ever-growing pile of books.
 - 🖊 Please feel free to contact me on LinkedIn or send me an email at mjfru201@gmail.com.
+
+<h2 align="center">By the Numbers:</h2>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjfru&layout=donut)](https://github.com/mjfru/github-readme-stats)
+  
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mjfru&theme=ocean-gradient" alt="GitHub Streak" />
+  </a>
+  
+  
+</div>
+
+<div class="thank_you" align="center">
+  <h2>Thanks for taking the time to look through my Github! Hope to connect with you soon. </h2>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdob3ZlMTNmbDJqYTRtMjgzenM3dGcwMDJpYjBjd21kd3FqM3VoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ui1hpJSyBDWlG/giphy.gif" alt="michael scott" width="500" height="300"/>
+</div>
+
+
 <!--
 **mjfru/mjfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
