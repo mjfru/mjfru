@@ -12,6 +12,7 @@
 
 - 👀 I'm Matt Frutchey (Fru-shay), a recent coding bootcamp graduate, teacher, and front-end / full-stack web developer from Pennsylvania.
 - 🎓 I studied three full-stacks (MERN, Java, Python) at Coding Dojo (Colorado Technical University), have a Master of Science degree in secondary education, and a Bachelor of Arts degree in Japanese.
+- 🎯 I am seeking employment opportunities as a junior front-end or full-stack web developer.
 - 🛠 I currently have experience in web and software development with:
   - **Languages**:    
     <div class="icons">
@@ -53,11 +54,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
     </div>
     
-- In my free time, I'm advancing my front-end knowledge, continuing to dive deep on all things JavaScript. As of November 2024, I'm continuing to review React, picking up Next.js, and utilizing Sass via coursework.
-- I am open to work and/or collaborate as a junior front-end or full-stack developer. I have the most experience working with React but would be eager to learn and refresh any other languages/skills.
-- As a life-long learner, I'm eager to continue to learn within the tech field and am open to employment opportunities worldwide.
-- I am bilingual (English/Japanese) and have intermediate knowledge of Swedish and German.
-- Please feel free to contact me on LinkedIn (link below my picture) or send me an email at mjfru201@gmail.com
+- 👨‍🏫 As a life-long learner and teacher, I'm eager to continue to learn within the tech field, consistently practicing the fundamentals and enriching my knowledge with new languages and frameworks.
+- 🌏 I am a native English speaker with advanced Japanese ability and intermediate German & Swedish.
+- 🖊 Please feel free to contact me on LinkedIn or send me an email at mjfru201@gmail.com.
 <!--
 **mjfru/mjfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
