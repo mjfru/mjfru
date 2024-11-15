@@ -64,10 +64,14 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjfru&layout=donut)](https://github.com/mjfru/github-readme-stats)
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mjfru&theme=ocean-gradient" alt="GitHub Streak"/>
-  </a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mjfru&theme=ocean-gradient" alt="GitHub Streak" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=mjfru&theme=ocean-gradient" alt="GitHub Streak"/>
+</a>
   
   
 </div>
