@@ -13,7 +13,7 @@
 
 - 👀 I'm Matt Frutchey (Fru-shay), a recent coding bootcamp graduate, teacher, and front-end / full-stack web developer from Pennsylvania.
 - 🎓 I studied three full-stacks (MERN, Java, Python) at Coding Dojo (Colorado Technical University), have a Master of Science degree in secondary education, and a Bachelor of Arts degree in Japanese.
-- 🎯 I am seeking employment opportunities as a junior front-end or full-stack web developer.
+- 🎯 I am seeking employment opportunities as a junior front-end or full-stack web developer. I'd be glad to consider other roles in tech or tech-adjacent as well!
 - 🛠 I currently have experience in web and software development with:
   - **Languages**:    
     <div class="icons">
